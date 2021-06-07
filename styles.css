@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+
+h2
+{
+  color: #346751;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-bottom: 0px;
+  border-color: #d8f8b7;
+  border-width: 5px;
+  width: 5%;
+}
+
+.dp{
+  width: 180px;
+  height: 180px;
+}
